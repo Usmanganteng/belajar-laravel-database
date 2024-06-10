@@ -12,8 +12,10 @@
 <b>requirement/persyaratan</b>
 ---
 > #### Php versi 8
->> - Cara menginstal php dalam bahasa indonesia : https://youtu.be/Uw3ZGIMvIdA?si=mBVZ-lBnoCilASzo
->> - Cara menginstal php dalam bahasa inggris : https://youtu.be/MPRLUd8Pmyo?si=FqN54nVr4duH4Keg
+>> - Cara menginstal php dalam bahasa indonesia : [youtube](https://youtu.be/Uw3ZGIMvIdA?si=mBVZ-lBnoCilASzo)
+>> - Cara menginstal php dalam bahasa inggris : [youtube](https://youtu.be/MPRLUd8Pmyo?si=FqN54nVr4duH4Keg)
+> #### laravel versi 10
+>> - Cara document laravel : [laravel](https://laravel.com/)
 ---
 > #### Laravel versi 10.0.3
 >> - cara menginstal laravel yang versi yang sama 
